@@ -1,3 +1,6 @@
+
+ <img src="https://github.com/Md-Tarikul-Islam-Juel/bulk-email-send/blob/main/documents/images/banner.jpg" alt="" style="display: block; margin: auto;">
+ 
 # bulk Email Sender with PDF Attachment
 
 This project is a Node.js application designed to send the same email to multiple recipients, with each email personalized with the recipient's name in the body. It reads email content from text files and recipient details from a CSV file. The application uses Nodemailer to send emails through a Gmail account, ensuring that each recipient receives a tailored message.
