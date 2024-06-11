@@ -2,13 +2,6 @@
 
 This project is a Node.js application designed to send the same email to multiple recipients, with each email personalized with the recipient's name in the body. It reads email content from text files and recipient details from a CSV file. The application uses Nodemailer to send emails through a Gmail account, ensuring that each recipient receives a tailored message.
 
-## Table of Contents
-
-- [Features](#features)
-- [Example Email](#Example_Email)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
 
 ## Features
 
@@ -34,7 +27,7 @@ Alice Smith
 
 ## Installation
 
-1. **Download the repository:**
+1. **Clone or Download the repository:**
 
 2. **Install dependencies:**
 
@@ -52,6 +45,8 @@ Alice Smith
    ```
 
    Note: create new app pasword in your gmail
+   <img src="https://github.com/Md-Tarikul-Islam-Juel/bulk-email-send/blob/main/documents/images/appPassword.png" alt="" style="display: block; margin: auto;">
+   
 
 ## Configuration
 
@@ -72,13 +67,14 @@ Alice Smith
    John Doe,john.doe@example.com
    Jane Smith,jane.smith@example.com
    ```
+    <img src="https://github.com/Md-Tarikul-Islam-Juel/bulk-email-send/blob/main/documents/images/recipients.png" alt="" style="display: block; margin: auto;">
 
 ## Usage
 
 Run the script to send emails:
+   ```
+   node index.js
+   ```
 
-    ```
-    node index.js
-    ```
+**Note:** Before running the code, ensure that you have correctly entered the recipient names and email addresses in the `recipients.csv` file.
 
-Note: before run the code make sure you have inserted your recepent name and email
