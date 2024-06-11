@@ -1,0 +1,8 @@
+Hi {name},
+
+I hope you’re doing well. Just a quick note to let you know that our meeting scheduled for tomorrow has been rescheduled to next Wednesday at 10 AM.
+
+<b>Please let me know if this time works for you.</b>
+
+Best regards,
+Alice Smith
