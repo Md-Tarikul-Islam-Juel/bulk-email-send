@@ -81,3 +81,16 @@ Run the script to send emails:
 
 **Note:** Before running the code, ensure that you have correctly entered the recipient names and email addresses in the `recipients.csv` file.
 
+## 📞 Contact Information
+
+For any inquiries or further assistance, feel free to reach out:
+
+- **Email:** [md.tarikulislamjuel@gmail.com](mailto:md.tarikulislamjuel@gmail.com)
+- **LinkedIn:** [Tarikul Islam Juel](https://www.linkedin.com/in/tarikulislamjuel/)
+
+
+
+<p align="center">
+  <a href="mailto:md.tarikulislamjuel@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="margin: 0 15px;"/></a>
+  <a href="https://www.linkedin.com/in/tarikulislamjuel/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 15px;"/></a>
+</p>
